@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full-Stack Todo List Application
 
 A beautiful and efficient todo list application built with React frontend and Express.js backend, connected to MongoDB.
@@ -185,3 +186,7 @@ The backend can be deployed to services like Heroku, Railway, or Vercel:
 ## License
 
 This project is licensed under the ISC License.
+=======
+# todo-project
+full stack
+>>>>>>> 9977ade12446f984f55ee4322d1a1a7f0c2ea445
